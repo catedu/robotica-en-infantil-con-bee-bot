@@ -27,4 +27,5 @@
 * [Sube tu actividad a Youtube](sube_tu_actividad_a_youtube.md)
 * [Sube tu ví­deo al muro](sube_tu_vdeo_al_muro.md)
 * [Muro de ediciones pasadas](muro_de_ediciones_pasadas.md)
+* [Créditos](creditos.md)
 
