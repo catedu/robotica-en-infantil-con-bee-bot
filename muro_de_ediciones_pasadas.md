@@ -6,3 +6,5 @@ En esta sección encontrarás los muros de las ediciones pasadas de este curso. 
 Pero nada de copiar eeeehhh !!
 
 ![](http://www.sopitas.com/wp-content/uploads/2014/09/copiaexamen_met.jpg)
+
+Para ver el muro visita el curso en [http://moodle.catedu.es/](http://moodle.catedu.es/)

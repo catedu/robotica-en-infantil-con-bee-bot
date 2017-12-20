@@ -26,7 +26,6 @@
 * [Actividad obligatoria](index1.md)
 * [Sube tu actividad a Youtube](sube_tu_actividad_a_youtube.md)
 * [Sube tu ví­deo al muro](sube_tu_vdeo_al_muro.md)
-* [Muro tus actividades](muro_tus_actividades.md)
 * [Muro de ediciones pasadas](muro_de_ediciones_pasadas.md)
   * [16-17-2conv](16172conv.md)
 * [Muro con otras actividades](muro_con_otras_actividades.md)
