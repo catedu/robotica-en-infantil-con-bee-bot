@@ -5,7 +5,7 @@
 ## 1. La teoría
 
 * [Robotica en infantil](index0.md)
-* [¿Qué es?](qu_es.md)
+* [Robots](qu_es.md)
 * [Programo Ergo Sum](programo_ergo_sum.md)
 * [Un poco de orden... el pensamiento computacional](un_poco_de_orden_el_pensamiento_computacional.md)
 * [¿Se puede usar Bee-bot sin Bee-bot?](se_puede_usar_beebot_sin_beebot.md)
