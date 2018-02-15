@@ -5,7 +5,7 @@ Es un robot de fabricación americana,[ https://www.bee-bot.us/](https://www.bee
 #####Enlaces interesantes de BeeBot:
 
 - [Accesorios en Ro-bótica](http://www.ro-botica.com/buscar/bee-bot).
-- Actividades educativas Tilk Education
+- Actividades educativas [Tilk Education](https://www.tilk-education.com/)
 
 ### EL CURSO SE PUEDE REALIZAR CON LOS OTROS MODELOS Y OTROS ROBOTS PARECIDOS pues básicamente son : Teclas con órdenes para orientar y dirigir
 
