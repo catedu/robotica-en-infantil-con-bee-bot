@@ -1,6 +1,12 @@
 # BEEBOT
 
-Es un robot de fabricación americana,[ https://www.bee-bot.us/](https://www.bee-bot.us/) orientado para infantil, con órdenes que orientación y dirección que va recordando para seguir un camino, hay dos modelos, con y sin bluetooth, y tiene muchos [accesorios](http://www.ro-botica.com/buscar/bee-bot). En este curso los tutoriales son del modelo sin bluetooth.
+Es un robot de fabricación americana,[ https://www.bee-bot.us/](https://www.bee-bot.us/) orientado para infantil, con órdenes que orientación y dirección que va recordando para seguir un camino, hay dos modelos, con y sin bluetooth. En este curso los tutoriales son del modelo sin bluetooth.
+
+#####Enlaces interesantes de BeeBot:
+
+- [Accesorios en Ro-bótica](http://www.ro-botica.com/buscar/bee-bot).
+- Actividades educativas Tilk Education
+
 ### EL CURSO SE PUEDE REALIZAR CON LOS OTROS MODELOS Y OTROS ROBOTS PARECIDOS pues básicamente son : Teclas con órdenes para orientar y dirigir
 
 {% youtube %}https//www.youtube.com/watch?v=7lbuj5l-2SU{% endyoutube %}
