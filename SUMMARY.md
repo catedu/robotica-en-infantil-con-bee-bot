@@ -1,7 +1,6 @@
 # Summary
 
 * [Introducción](README.md)
-* [Chat robótica educativa en Aragón](chat-robotica-educativa-en-aragon.md)
 
 ## 1. La teoría
 
@@ -28,5 +27,7 @@
 * [Sube tu actividad a Youtube](sube_tu_actividad_a_youtube.md)
 * [Sube tu ví­deo al muro](sube_tu_vdeo_al_muro.md)
 * [Muro de ediciones pasadas](muro_de_ediciones_pasadas.md)
+
+* [Chat robótica educativa en Aragón](chat-robotica-educativa-en-aragon.md)
 * [Créditos](creditos.md)
 
