@@ -1,1 +1,22 @@
-{"plugins": ["youtube", "accordion", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/robotica-en-infantil-con-bee-bot/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "robotica-en-infantil-con-bee-bot"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/robotica-en-infantil-con-bee-bot/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "robotica-en-infantil-con-bee-bot"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
