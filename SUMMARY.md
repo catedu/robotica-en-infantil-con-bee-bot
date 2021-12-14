@@ -21,10 +21,8 @@
   * [Una presentación](una_presentacin.md)
   * [Resultado](resultado.md)
 
-## 2. Crea una actividad
+## 2. Para saber más
 
-* [Actividad obligatoria](index1.md)
 * [Muro de ediciones pasadas](muro_de_ediciones_pasadas.md)
-
 * [Chat robótica educativa en Aragón](chat-robotica-educativa-en-aragon.md)
 * [Créditos](creditos.md)
